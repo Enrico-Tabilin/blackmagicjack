@@ -1,0 +1,10 @@
+0
+True
+False
+False
+True
+2
+True
+spades king
+diamonds queen
+spades jack
